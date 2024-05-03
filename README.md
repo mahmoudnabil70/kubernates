@@ -1,4 +1,4 @@
-# 1-create application with enginx deploy on kubbernates  
+# 1-create application with nginx deploy on kubbernates  
 kubectl create deployment nginx --image=nginx 
 
 # 2- scale pods to 6 replicas
